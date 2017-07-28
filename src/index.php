@@ -6,7 +6,7 @@
  * Time: 14:17
  */
 
-include_once 'hello/src/HelloWorld.php';
+include_once 'HelloWorld.php';
 
 
     $test = new HelloWorld();
