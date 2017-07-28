@@ -14,8 +14,8 @@
         "illuminate/support": "^5.1"
     },
     "autoload": {
-        "psr-0": {
-            "obinna": "src/HelloWorld.php"
+        "psr-4": {
+            "Obinna\\": "src/"
         }
     }
 }
