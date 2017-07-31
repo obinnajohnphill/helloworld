@@ -8,7 +8,7 @@
 
 namespace Obinna;
 
-class HelloWorld2
+class HelloWorld
 {
     public static function world()
     {
