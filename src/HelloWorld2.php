@@ -6,8 +6,9 @@
  * Time: 11:17
  */
 
+namespace Hello;
 
-class HelloWorld
+class HelloWorld2
 {
     public static function world()
     {
