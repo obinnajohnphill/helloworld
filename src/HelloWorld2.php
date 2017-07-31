@@ -6,7 +6,6 @@
  * Time: 11:17
  */
 
-namespace Obinna;
 
 class HelloWorld
 {
